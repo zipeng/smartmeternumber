@@ -13,6 +13,7 @@ CORS(app)
 
 lLocation = []
 lWrongCharactor=[]
+#comment
 lRightCharactor=[]
 lLeftNeighbour=[]
 lRightNeighbour=[]
